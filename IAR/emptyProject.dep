@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1757093229</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\driverlib.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\dma.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\eusci_a_spi.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\dac12_a.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\dma.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\aes.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\comp_b.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\adc12_a.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\battbak.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\adc10_a.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\aes.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\crc.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\crc.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\battbak.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\comp_b.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\ctsd16.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\ctsd16.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\dac12_a.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\inc\hw_memmap.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\adc10_a.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\adc12_a.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\sd24_b.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\msp430.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\assert.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ldopwr.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc12_a.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\flashctl.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ucs.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_a_uart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_a.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc_c.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\tec.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_b.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\sfr.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc_b.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\eusci_b_spi.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dma.r43</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430xlsfn.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc_c.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc_a.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\dac12_a.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_b_i2c.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\mpy32.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_d.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\tlv.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\tlv.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\ram.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_b_spi.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_b.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\lcd_b.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\lcd_b.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_a.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\dma.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\ctsd16.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\aes.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\eusci_b_spi.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\oa.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_d.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_b_i2c.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\mymsp430.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\ram.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\sfr.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\sysctl.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ucs.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\pmm.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\ram.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\eusci_a_spi.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\battbak.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\output.hex</file>
+      <file>$PROJ_DIR$\Debug\Obj\comp_b.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_a_spi.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc_c.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\crc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_a_spi.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\tec.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\pmm.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\eusci_a_spi.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\eusci_b_i2c.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\aes.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\comp_b.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_a.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\ldopwr.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\eusci_a_spi.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\pmap.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\eusci_b_spi.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\eusci_a_uart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dac12_a.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\pmm.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\dma.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ucs.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\wdt_a.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\pmap.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc12_a.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_d.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_b_i2c.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\flashctl.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\crc.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\oa.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\battbak.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\lcd_b.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\wdt_a.pbi</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\lcd_b.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\pmm.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\eusci_a_uart.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\ldopwr.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\mpy32.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\eusci_b_i2c.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\oa.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\oa.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\eusci_a_uart.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\pmap.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\flashctl.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\pmm.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\ref.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\gpio.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\lcd_b.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\ldopwr.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\mpy32.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\pmap.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\ram.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\rtc_a.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\ram.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\rtc_a.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\eusci_b_spi.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\gpio.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\ref.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\rtc_b.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\rtc_b.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\rtc_c.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\eusci_b_spi.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\eusci_b_i2c.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\eusci_a_spi.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\flashctl.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\usci_b_spi.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\sfr.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\timer_d.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\timer_b.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\sfr.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\sysctl.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\timer_b.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\sd24_b.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\usci_b_i2c.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\usci_b_i2c.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\tlv.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\tlv.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\ucs.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\ucs.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\usci_a_spi.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\usci_b_spi.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\rtc_c.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\sd24_b.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\timer_d.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\usci_a_spi.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\timer_a.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\tec.h</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\usci_a_uart.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\sysctl.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\tec.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\timer_a.c</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\usci_a_uart.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\battbak.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\sysctl.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\wdt_a.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\dac12_a.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\ref.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\eusci_a_uart.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\sysctl.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\sd24_b.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc_b.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\mpy32.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\ref.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc12_a.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\ctsd16.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc10_a.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\eusci_b_i2c.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\flashctl.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\ldopwr.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdbool.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\pmap.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_a_uart.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\config\linker\multiplier32.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\tlv.__cstat.et</file>
+      <file>$PROJ_DIR$\mymsp430.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ref.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_a_spi.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc_a.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_a_uart.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\tec.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\sd24_b.pbi</file>
+      <file>$PROJ_DIR$\mymsp430.c</file>
+      <file>$TOOLKIT_DIR$\inc\msp430f5529.h</file>
+      <file>$TOOLKIT_DIR$\config\linker\lnk430f5529.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\msp430f5xx_6xxgeneric.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc10_a.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\eusci_a_uart.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\emptyProject.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\ctsd16.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc10_a.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_b_spi.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc_a.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\oa.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\mymsp430.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\mpy32.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\mymsp430.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_b_spi.r43</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\wdt_a.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\eusci_b_i2c.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\comp_b.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430xlsfn.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\crc.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\sfr.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_b.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\aes.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc_b.pbi</file>
+      <file>$PROJ_DIR$\..\MSP430F5xx_6xx\wdt_a.h</file>
+      <file>$PROJ_DIR$\textlcd.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\textlcd.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\textlcd.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\textlcd.__cstat.et</file>
+      <file>$PROJ_DIR$\textlcd.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\eusci_a_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 75</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\dma.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 107 33 1 22 208 105 58 29 24 210 194 18 23 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\battbak.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 177</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\aes.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 231</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\crc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 228</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65 12 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\comp_b.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 226</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 210 105 40 6 194 29 33 18 24 22 107 208 64 23 71 65 58</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\ctsd16.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 215</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\dac12_a.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 180</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\adc10_a.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 216</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 212 106 91 114 92 112 189 43 39 95 213 225 97 110 46 115 94 111 45 222 113 104 100 74 201 42 185 32 184 229 70 86 235 93 35 47 49 28 85 204 109 223 103</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 190</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 18 22 208 64 23 210 107 33 29 105 40 65 58 71 194 20 7 24 10 8 14 6 11 12 15 17 4 1 2 125 146 139 148 127 140 130 131 120 211 0 9 5 13 16 3 147 119 122 145 117 132 121 124 126 128 135 141 138 143 165 166 153 154 170 169 152 151 160 162 168 175 158 164 233 200 81 88 83 238 133 207 123 134 118 137 129 136 142 144 156 150 172 173 234 174 155 167 159 161 163 171 157 149 224</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\adc12_a.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 188</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 22 208 71 7 107 23 65 24 210 194 29 33 105 40 18 58</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\output.hex</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 209 198 212 106 91 114 92 112 189 43 39 95 213 225 97 110 46 115 94 111 45 222 113 104 100 74 201 42 185 32 184 229 70 86 235 93 35 47 49 28 85 204 109 223 103 227</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\pmm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 73</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 210 29 33 18 128 194 105 40 24 22 107 208 64 23 71 65 58</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\ldopwr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 193</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\oa.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 219</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\eusci_a_uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 182</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\ref.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 181</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 187</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 22 141 107 65 24 210 194 71 40 18 29 105 58</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\lcd_b.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 54</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\mpy32.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 221</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 186</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 107 64 33 121 22 208 105 58 29 24 210 194 18 23 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\pmap.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 195</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65 126 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\rtc_a.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 218</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 203</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 33 18 210 138 194 105 40 24 22 107 208 64 23 71 65 58</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\ram.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65 135 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\eusci_b_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 196</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 29 22 208 130 107 23 58 24 210 194 33 18 105 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\rtc_b.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 232</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\rtc_c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\eusci_b_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 191</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\flashctl.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 192</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 64 107 127 22 208 105 58 29 24 210 194 18 23 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\usci_b_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 217</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 23 107 29 164 22 208 58 24 210 194 33 18 105 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\sfr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65 153 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\timer_b.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 230</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58 194 152 210 29 24 22 107 208 64 23 33 18 105 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\sd24_b.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 206</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\usci_b_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 208 64 22 58 158 107 23 29 24 210 194 33 18 105 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\tlv.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 199</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 208 71 64 22 160 107 23 65 24 210 194 29 33 105 40 18 58</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\ucs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 72</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 194 29 162 210 58 24 22 107 208 64 23 33 18 105 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\usci_a_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 202</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 22 29 168 107 23 58 24 210 194 33 18 105 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\timer_d.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 108</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 62</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\usci_a_uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 197</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40 105 194 175 210 29 33 18 24 22 107 208 64 23 71 65 58</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\sysctl.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 183</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 178</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 107 18 154 22 208 29 24 210 194 33 105 58 23 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\tec.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 205</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\timer_a.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 210 58 169 194 29 24 22 107 208 64 23 33 18 105 71 40 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mymsp430.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 220</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 67</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 121 7 160 18 147 165 71 29 12 127 135 170 158 194 0 13 3 122 117 126 138 153 152 168 233 210 65 33 81 9 5 6 16 1 119 145 130 132 124 128 141 143 166 154 169 151 162 175 164 22 107 208 64 105 40 83 200 23 58 88</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 176</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 63</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 166 18 119 22 5 124 162 16 130 141 169 164 208 64 23 33 238 9 6 1 145 132 128 143 154 151 175 107 29 200 7 13 12 3 147 122 127 117 121 126 135 138 165 153 170 152 160 168 158 233 210 194 58 0 83 105 71 40 65 81 88</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MSP430F5xx_6xx\wdt_a.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 179</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 208 23 33 210 22 107 105 58 29 18 194 71 40 65 233 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\textlcd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 236</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 237</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 153 18 122 210 29 33 81 13 126 168 3 117 138 152 233 88 7 12 147 127 121 135 165 170 160 158 194 105 40 200 0 9 5 6 16 1 119 145 130 132 124 128 141 143 166 154 169 151 162 175 164 22 107 208 64 71 65 238 23 58 83</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
